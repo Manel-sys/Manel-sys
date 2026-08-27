@@ -37,6 +37,7 @@ Plus various other C and Python projects as part of the 42 curriculum.
 ### 42 Lisboa
 
 ![42 Lisboa](https://img.shields.io/badge/42-Lisboa-000000?style=flat-square&logo=42&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00B894&center=true&vCenter=true&width=500&lines=42;101010)](https://git.io/typing-svg)
 
 Currently working through the 42 core curriculum — a project-based, peer-learning programming school with no teachers or classes, focused on hands-on problem solving and low-level fundamentals.
 
