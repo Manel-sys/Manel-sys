@@ -34,7 +34,7 @@ Plus various other C and Python projects as part of the 42 curriculum.
 
 ### 42 Lisboa
 
-<img src="https://logodownload.org/wp-content/uploads/2019/09/42-logo-2.png" alt="42 Lisboa" width="60"/>
+<img src="https://raw.githubusercontent.com/gauthierbouyjou/gauthierbouyjou/master/img/42_Logo.png" alt="42 Logo" width="60"/>
 
 Currently working through the 42 core curriculum — a project-based, peer-learning programming school with no teachers or classes, focused on hands-on problem solving and low-level fundamentals.
 
