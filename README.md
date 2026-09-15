@@ -24,6 +24,7 @@
 | **get_next_line** | A function that reads a file descriptor and returns its content line by line | C |
 | **A-Maze-ing** | A random maze generator with a pathfinding solver and terminal visualization using ASCII characters | Python |
 | **push_swap** | Computes and displays the shortest sequence of instructions to sort a stack of integers using only two stacks | C |
+| **Fly-In** | A multi-agent pathfinding solver with a vizualization tool | Python |
 
 Plus various other C and Python projects as part of the 42 curriculum.
 
