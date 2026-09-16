@@ -10,10 +10,10 @@
 
 ### About Me
 
-- 🔧 Background in Electrotechnical and Computer Engineering
-- 🖥️ Deepening my low-level and systems programming skills at 42 Lisboa, an intensive project-based programming school
-- 🐍 Comfortable working across both **C** and **Python**, from systems-level code to scripting and tooling
-- 📚 Constantly learning through peer-to-peer, project-driven work — no lectures, just code, debugging, and collaboration
+- Background in Electrotechnical and Computer Engineering
+- Deepening my low-level and systems programming skills at 42 Lisboa, an intensive project-based programming school
+- Comfortable working across both **C** and **Python**, from systems-level code to scripting and tooling
+- Constantly learning through peer-to-peer, project-driven work — no lectures, just code, debugging, and collaboration
 
 ### What I've Worked On
 
